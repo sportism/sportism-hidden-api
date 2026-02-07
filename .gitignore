@@ -8,8 +8,5 @@ __pycache__/
 *.pyo
 *.pyd
 
-# UV lock file (optional - some keep this)
-scripts/uv.lock
-
 # Environment files
 .env
