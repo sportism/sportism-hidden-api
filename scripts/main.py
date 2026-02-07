@@ -81,8 +81,8 @@ for i, obj in enumerate(result):
                 today_matches.append(match)
 
 
-# with open("../data/live-events.json", "w") as file:
-#     json.dump(today_matches, file)
+with open("../data/live-events.json", "w") as file:
+    json.dump(today_matches, file)
 
 
-print(json.dumps(today_matches))
+# print(json.dumps(today_matches))
