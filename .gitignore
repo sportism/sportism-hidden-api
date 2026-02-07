@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+scripts/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# UV lock file (optional - some keep this)
+scripts/uv.lock
+
+# Environment files
+.env

@@ -1,3 +1,0 @@
-# Sportism Hidden API
-
-
