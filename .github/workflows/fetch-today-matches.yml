@@ -1,0 +1,49 @@
+name: Fetch Today Matches
+
+on:
+  schedule:
+    - cron: '40 16 * * *'  # Adjust the cron schedule as needed
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  fetch_bein_sports_today_matches:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/astral-sh/uv:python3.13-alpine
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full history for proper git operations
+      
+      - name: Install dependencies
+        run: |
+          # Install git (Alpine doesn't include it by default)
+          apk add --no-cache git
+      
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+      
+      - name: Sync Python dependencies
+        run: uv sync --directory scripts
+      
+      - name: Run scraper
+        run: uv run --directory scripts main.py
+      
+      - name: Commit and push changes
+        run: |
+          git pull origin ${{ github.ref_name }} --rebase || true
+          git add data/live-events.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update BeIN Sports matches - $(date +%Y-%m-%d) [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
