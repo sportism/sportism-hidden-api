@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Main Server",
+    "provider": "",
+    "qualities": [
+      {
+        "type": "1080p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618293.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "2160p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618309.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618293.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618262.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618281.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/574501.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "HD SS ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/512982.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "XTRA HD ",
+        "url": "SS http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128914.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "ENGLISH HD ",
+        "url": "SS http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128917.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "FRANCE HD ",
+        "url": "SS http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128919.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "4K SS ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128903.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "SD SS ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128922.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "LQ SS ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128931.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "4K LIVE ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127767.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "HD LIVE ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127779.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "FHD LIVE ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1672827.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "SD LIVE ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127780.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "LQ LIVE ",
+        "url": "http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1666279.ts",
+        "is_still_active": true
+      }
+    ]
+  },
+  {
+    "name": "Backup Server",
+    "provider": "",
+    "qualities": []
+  }
+]
