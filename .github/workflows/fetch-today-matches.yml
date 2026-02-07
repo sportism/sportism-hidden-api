@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: live-events
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ACTIONS_PAT }}
           fetch-depth: 0
       
       - name: Install uv
@@ -47,4 +47,4 @@ jobs:
             git push origin HEAD:live-events
           fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
