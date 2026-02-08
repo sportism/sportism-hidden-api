@@ -1,52 +1,52 @@
 [
   {
     "title": "Bein SPORTS",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports.json"
   },
   {
     "title": "Bein SPORTS 1",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_1.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-1.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_1.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-1.json"
   },
   {
     "title": "Bein SPORTS 2",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_2.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-2.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_2.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-2.json"
   },
   {
     "title": "Bein SPORTS 3",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_3.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-3.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_3.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-3.json"
   },
   {
     "title": "Bein SPORTS 4",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_4.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-4.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_4.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-4.json"
   },
   {
     "title": "Bein SPORTS 5",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_5.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-5.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_5.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-5.json"
   },
   {
     "title": "Bein SPORTS 6",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_6.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-6.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_6.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-6.json"
   },
   {
     "title": "Bein SPORTS 7",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_7.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-7.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_7.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-7.json"
   },
   {
     "title": "Bein SPORTS 8",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_8.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-8.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_8.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-8.json"
   },
   {
     "title": "Bein SPORTS 9",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_9.png?ref_type=heads",
-    "streamingUrl": "/-/raw/main/channels-streaming-urls/bein-sports-9.json?ref_type=heads"
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_9.png",
+    "streamingUrl": "/refs/heads/main/channels-streaming-urls/bein-sports-9.json"
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
     "title": "Bein SPORTS News",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_news.png?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_news.png",
     "subChannelsUrl": "",
     "streamingUrl": ""
   },
   {
     "title": "Bein SPORTS",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_logo.png?ref_type=heads",
-    "subChannelsUrl": "/-/raw/main/sub-channels/bein-sports.json?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_logo.png",
+    "subChannelsUrl": "/refs/heads/main/sub-channels/bein-sports.json",
     "streamingUrl": null
   },
   {
     "title": "Bein SPORTS MAX",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_max.png?ref_type=heads",
-    "subChannelsUrl": "/-/raw/main/sub-channels/bein-sports-max.json?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_max.png",
+    "subChannelsUrl": "/refs/heads/main/sub-channels/bein-sports-max.json",
     "streamingUrl": null
   },
   {
     "title": "Bein SPORTS XTRA",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_xtra.png?ref_type=heads",
-    "subChannelsUrl": "/-/raw/main/sub-channels/bein-sports-xtra.json?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_xtra.png",
+    "subChannelsUrl": "/refs/heads/main/sub-channels/bein-sports-xtra.json",
     "streamingUrl": null
   },
   {
     "title": "Bein SPORTS French",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_french.png?ref_type=heads",
-    "subChannelsUrl": "/-/raw/main/sub-channels/bein-sports-french.json?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_french.png",
+    "subChannelsUrl": "/refs/heads/main/sub-channels/bein-sports-french.json",
     "streamingUrl": null
   },
   {
     "title": "Bein SPORTS English",
-    "logo": "/-/raw/main/images/bein-sports/bein_sports_english.png?ref_type=heads",
-    "subChannelsUrl": "/-/raw/main/sub-channels/bein-sports-english.json?ref_type=heads",
+    "logo": "/refs/heads/main/images/bein-sports/bein_sports_english.png",
+    "subChannelsUrl": "/refs/heads/main/sub-channels/bein-sports-english.json",
     "streamingUrl": null
   }
 ]
