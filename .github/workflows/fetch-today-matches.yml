@@ -1,7 +1,7 @@
 name: Fetch Today Matches
 on:
   schedule:
-    - cron: '43 04 * * *'
+    - cron: '43 03 * * *'
   workflow_dispatch:
 
 jobs:
