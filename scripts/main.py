@@ -59,8 +59,10 @@ if is_json(response.text):
     # repo_url = "https://gitlab.com/sportism/sportism-backend"
     # servers_base_url = "{}/-/raw/main/channels-streaming-urls/{}.json?ref_type=heads"
 
-    repo_url = "https://raw.githubusercontent.com/sportism/sportism-hidden-api"
-    servers_base_url = "{}/refs/heads/main/channels-streaming-urls/{}.json"
+    # repo_url = "https://raw.githubusercontent.com/sportism/sportism-hidden-api"
+    # servers_base_url = "{}/refs/heads/main/channels-streaming-urls/{}.json"
+
+    servers_base_url = "/refs/heads/main/channels-streaming-urls/{}.json"
 
     def channel_name_convertor(channe_name: str) -> str:
         return "-".join(channe_name.lower().split())
@@ -87,19 +89,19 @@ if is_json(response.text):
             # "motosportsData": "",
             # "localDateTime": "2026-02-06T15:35:00.000Z"
             #
+            "matchOptaId": obj["matchOptaId"],
             "category": obj["category"],
             #
             "channelName": obj["channelName"],
             "channelExternalId": "94130ea17023c4837f0dcdda95034b65",
             "channelLogo": bein_sport_media_url.format(obj["channelExternalId"]),
             "channelServers": servers_base_url.format(
-                repo_url, channel_name_convertor(obj["channelName"])
+                channel_name_convertor(obj["channelName"])
             ),
             #
             "competitionName": obj["competitionName"],
             "competitionOptaId": obj["competitionOptaId"],
             "competitionLogo": bein_sport_media_url.format(obj["competitionOptaId"]),
-            "matchOptaId": obj["matchOptaId"],
             #
             "homeTeamOptaId": obj["homeTeamOptaId"],
             "homeTeamColor": obj["homeTeamColor"],
