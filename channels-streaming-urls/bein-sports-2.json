@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Main Server",
+    "provider": "",
+    "qualities": [
+      {
+        "type": "2160p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127768.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "2160p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128904.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1672826.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1134013.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127781.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/512981.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127782.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128923.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1666278.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128932.ts",
+        "is_still_active": true
+      }
+    ]
+  },
+  {
+    "name": "Valyrian Server",
+    "provider": "",
+    "qualities": [
+      {
+        "type": "2160p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618308.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618292.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618261.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/9086.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/10514.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618280.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/9082.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/574500.ts",
+        "is_still_active": true
+      }
+    ]
+  }
+]

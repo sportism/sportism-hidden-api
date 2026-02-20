@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Main Server",
+    "provider": "",
+    "qualities": [
+      {
+        "type": "2160p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127775.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "2160p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618301.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618285.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "1080p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1672819.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127795.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/512974.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128930.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618273.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1666271.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1128939.ts",
+        "is_still_active": true
+      }
+    ]
+  },
+  {
+    "name": "Valyrian Server",
+    "provider": "",
+    "qualities": [
+      {
+        "type": "720p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/618254.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "576p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/1127796.ts",
+        "is_still_active": true
+      },
+      {
+        "type": "360p",
+        "url": " http://crystal.otts.pro/live/DXBPUPPCHJ/SGDHABRLVB/574493.ts",
+        "is_still_active": true
+      }
+    ]
+  }
+]
